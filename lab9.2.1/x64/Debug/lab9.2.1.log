@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\lab9.2.1\Source.cpp(34,7): warning C4101: 'filename': unreferenced local variable
+C:\Users\User\source\repos\lab9.2.1\Source.cpp(31,9): warning C4101: 'proc': unreferenced local variable
+C:\Users\User\source\repos\lab9.2.1\Source.cpp(31,15): warning C4101: 'avg': unreferenced local variable
+C:\Users\User\source\repos\lab9.2.1\Source.cpp(88,6): warning C4101: 'Predmet': unreferenced local variable
+  lab9.2.1.vcxproj -> C:\Users\User\source\repos\lab9.2.1\x64\Debug\lab9.2.1.exe

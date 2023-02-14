@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\lab9.2\Source.cpp(42,10): warning C4101: 'posada': unreferenced local variable
+C:\Users\User\source\repos\lab9.2\Source.cpp(46,7): warning C4101: 'filename': unreferenced local variable
+C:\Users\User\source\repos\lab9.2\Source.cpp(44,9): warning C4101: 'proc': unreferenced local variable
+C:\Users\User\source\repos\lab9.2\Source.cpp(44,15): warning C4101: 'avg': unreferenced local variable
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\lab9.2\x64\Debug\UnitTest1.dll

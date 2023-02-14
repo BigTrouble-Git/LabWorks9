@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\lab9.2\Source.cpp(37,10): warning C4101: 'posada': unreferenced local variable
+C:\Users\User\source\repos\lab9.2\Source.cpp(41,7): warning C4101: 'filename': unreferenced local variable
+C:\Users\User\source\repos\lab9.2\Source.cpp(39,9): warning C4101: 'proc': unreferenced local variable
+C:\Users\User\source\repos\lab9.2\Source.cpp(39,15): warning C4101: 'avg': unreferenced local variable
+  lab9.2.vcxproj -> C:\Users\User\source\repos\lab9.2\x64\Debug\lab9.2.exe

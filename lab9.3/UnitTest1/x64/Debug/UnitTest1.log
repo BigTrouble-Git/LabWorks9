@@ -1,0 +1,10 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\lab9.3\Source.cpp(38,20): warning C4101: 'MathG': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(38,27): warning C4101: 'average': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(44,7): warning C4101: 'filename': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(38,9): warning C4101: 'proc': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(38,15): warning C4101: 'avg': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(93,6): warning C4101: 'Predmet': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(164,15): warning C4101: 'avg2': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(164,9): warning C4101: 'avg1': unreferenced local variable
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\lab9.3\x64\Debug\UnitTest1.dll

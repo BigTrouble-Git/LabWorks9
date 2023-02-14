@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\lab9.2.1\Source.cpp(37,7): warning C4101: 'filename': unreferenced local variable
+C:\Users\User\source\repos\lab9.2.1\Source.cpp(34,9): warning C4101: 'proc': unreferenced local variable
+C:\Users\User\source\repos\lab9.2.1\Source.cpp(34,15): warning C4101: 'avg': unreferenced local variable
+C:\Users\User\source\repos\lab9.2.1\Source.cpp(91,6): warning C4101: 'Predmet': unreferenced local variable
+     Creating library C:\Users\User\source\repos\lab9.2.1\x64\Debug\UnitTest1.lib and object C:\Users\User\source\repos\lab9.2.1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\lab9.2.1\x64\Debug\UnitTest1.dll

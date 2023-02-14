@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\lab9.3\Source.cpp(40,20): warning C4101: 'MathG': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(40,27): warning C4101: 'average': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(40,9): warning C4101: 'proc': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(40,15): warning C4101: 'avg': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(108,6): warning C4101: 'Predmet': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(179,15): warning C4101: 'avg2': unreferenced local variable
+C:\Users\User\source\repos\lab9.3\Source.cpp(179,9): warning C4101: 'avg1': unreferenced local variable
+  lab9.3.vcxproj -> C:\Users\User\source\repos\lab9.3\x64\Debug\lab9.3.exe
